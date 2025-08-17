@@ -1,0 +1,8 @@
+name: EnemyDown
+version: '1.0-SNAPSHOT'
+main: plugin.enemyDown.Main
+api-version: '1.21'
+authors: [ 署名 ]
+description: 公開するときは、英語で書くこと
+commands:
+  enemyDown:
